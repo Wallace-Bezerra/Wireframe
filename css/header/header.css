@@ -1,0 +1,33 @@
+header {
+    width: 100%;
+    background-color: var(--gray-colors-800);
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-block: 2.4rem;
+}
+
+header nav,
+ul {
+    display: flex;
+    gap: 3.2rem;
+}
+
+@media(max-width:1070px) {
+    header nav {
+        display: none;
+    }
+
+    .mobile {
+        display: block;
+    }
+}
+
+@media(max-width:440px) {
+    .logo {
+        max-width: 140px;
+    }
+}
