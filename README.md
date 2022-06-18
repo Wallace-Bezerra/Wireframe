@@ -1,2 +1,2 @@
 # Wireframe
-Wiriframe base de um site
+Wireframe base de um site
