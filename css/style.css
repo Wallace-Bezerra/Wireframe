@@ -3,4 +3,9 @@
 @import url(../css/variaveis.css);
 @import url(../css/utilitario/fontes.css);
 @import url(../css/utilitario/componentes.css);
-@import url(../css/header/header.css)
+@import url(../css/header/header.css);
+@import url(../css/sections/section-hero.css);
+@import url(../css/sections/section-cards.css);
+@import url(../css/sections/section-multiple-cards.css);
+@import url(../css/sections/section-newsletter.css);
+@import url(../css/footer/footer.css);

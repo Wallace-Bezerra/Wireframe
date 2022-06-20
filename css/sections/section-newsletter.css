@@ -1,0 +1,23 @@
+.s-newsletter {
+    background-color: var(--gray-colors-200);
+    height: 508px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.s-newsletter .text {
+    gap: 16px;
+    max-width: 694px;
+    align-items: center;
+    text-align: center;
+}
+
+.s-newsletter .text p {
+    color: hwb(0 100% 0% / 0.7);
+    margin-top: 20px;
+    margin-bottom: 40px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+}

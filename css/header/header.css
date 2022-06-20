@@ -11,7 +11,7 @@ header {
 }
 
 header nav,
-ul {
+header ul {
     display: flex;
     gap: 3.2rem;
 }
