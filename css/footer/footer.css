@@ -3,10 +3,10 @@ footer {
 }
 
 footer main {
-    padding-top: 88px;
-    padding-bottom: 40px;
+    padding-top: 8.8rem;
+    padding-bottom: 4rem;
     display: flex;
-    gap: 136px;
+    gap: 13.6rem;
     align-items: flex-start;
     justify-content: space-between;
     border-bottom: 1px solid hsla(0, 0%, 100%, 0.216);
@@ -14,15 +14,15 @@ footer main {
 }
 
 .area-left {
-    max-width: 281px;
+    max-width: 28.1rem;
     display: flex;
     align-items: flex-start;
     flex-direction: column;
-    gap: 35px;
+    gap: 3.5rem;
 }
 
 .area-left p {
-    font-size: 14px;
+    font-size: 1.4rem;
     line-height: 150%;
 
 }
@@ -31,23 +31,23 @@ footer main nav {
     display: flex;
     justify-content: space-between;
     width: 100%;
-    max-width: 777px;
+    max-width: 77.7rem;
 }
 
 .item {
     display: flex;
     flex-direction: column;
-    gap: 24px
+    gap: 2.4rem;
 }
 
 .item li+li {
-    margin-top: 30px;
+    margin-top: 3rem;
 }
 
 .item h6 {
     font-family: 'Sora';
     font-weight: 600;
-    font-size: 16px;
+    font-size: 1.6rem;
     line-height: 125%;
     color: var(--white);
 }
@@ -57,14 +57,14 @@ footer main nav {
     font-family: 'Sora', sans-serif;
     font-style: normal;
     font-weight: 100;
-    font-size: 14px;
+    font-size: 1.4rem;
     line-height: 105%;
 }
 
 .redes li a {
     display: flex;
     align-items: center;
-    gap: 8px;
+    gap: 0.8rem;
 }
 
 .redes li a span {
@@ -73,7 +73,7 @@ footer main nav {
 }
 
 .copyright {
-    padding-block: 40px;
+    padding-block: 4rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -82,7 +82,7 @@ footer main nav {
 
 .group {
     display: flex;
-    gap: 9px;
+    gap: 0.9rem;
 }
 
 .group span {
@@ -101,12 +101,12 @@ footer main nav {
     footer main nav {
         flex-direction: column;
         align-items: center;
-        gap: 30px;
+        gap: 3rem;
     }
 
     footer main {
-        padding-top: 40px;
-        gap: 60px;
+        padding-top: 4rem;
+        gap: 6rem;
     }
 
     .area-left {
@@ -123,7 +123,7 @@ footer main nav {
 
     .copyright {
         flex-direction: column;
-        gap: 20px;
+        gap: 2rem;
         align-items: center;
         text-align: center;
     }

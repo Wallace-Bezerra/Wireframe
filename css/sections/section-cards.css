@@ -72,8 +72,6 @@
     border-bottom: 1px solid hsla(0, 0%, 100%, 0.25);
 }
 
-/* title */
-
 @media(max-width:1020px) {
     .all-cards {
         flex-direction: column;
